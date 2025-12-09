@@ -1,0 +1,40 @@
+Title: Major Incident Management SOP
+
+Definition:
+A Major Incident (MI) is a high-impact, high-urgency incident requiring immediate coordinated response.
+
+Criteria:
+- Critical service outage affecting entire business function
+- Multiple sites or users impacted
+- Severe financial impact
+- Customer-facing downtime exceeding SLA threshold
+
+Process:
+1. Detection:
+   - From monitoring or Service Desk.
+
+2. Validation:
+   - L1 checks impact and urgency.
+   - If meets MI criteria → notify Duty Manager.
+
+3. MI Declaration:
+   - Major Incident Manager (MIM) declares MI.
+   - Bridge call initiated within 15 minutes.
+
+4. Communication:
+   - Stakeholders notified via email or Teams bridge.
+   - Updates every 30 minutes.
+   - Incident banner on dashboard.
+
+5. Resolution:
+   - Technical teams focus on restoring service quickly.
+   - Workaround accepted temporarily.
+
+6. Post-Incident Review:
+   - PIR within 5 business days.
+   - Identify RCA and corrective actions.
+
+Roles:
+- MIM: Owns incident end-to-end.
+- Resolver Groups: Restoration activities.
+- Problem Manager: Conducts RCA after service restoration.

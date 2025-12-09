@@ -1,0 +1,24 @@
+Title: Incident Escalation SOP
+
+Types of Escalation:
+1. Functional Escalation:
+   - Escalate to L2/L3 when incident cannot be resolved by L1.
+
+2. Hierarchical Escalation:
+   - Notify managers when SLA breach is likely.
+
+Process:
+1. L1 logs incident and performs initial troubleshooting.
+2. If not resolved within 30 minutes:
+   - Escalate to L2 with clear notes and CI details.
+3. For Priority 1 incidents:
+   - Notify Duty Manager.
+   - Initiate Major Incident process.
+4. Resolver groups investigate and update on the bridge.
+5. Post-resolution:
+   - L1 validates with user before closure.
+
+KPIs:
+- Escalation Time
+- Percentage of escalated incidents
+- Time to engage MIM team

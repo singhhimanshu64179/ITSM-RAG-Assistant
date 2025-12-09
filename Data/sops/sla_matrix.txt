@@ -1,0 +1,21 @@
+Title: SLA Matrix for Incident Management
+
+SLA Targets Based on Priority:
+
+Priority  | Response Time | Resolution Time
+------------------------------------------------
+P1 (Critical)  | 15 minutes      | 4 hours
+P2 (High)      | 30 minutes      | 8 hours
+P3 (Medium)    | 1 hour          | 24 hours
+P4 (Low)       | 4 hours         | 72 hours
+
+Escalation Rules:
+- P1: Notify MIM immediately.
+- P2: Escalate if no update in 60 minutes.
+- P3: Escalate if not assigned in 4 hours.
+- P4: Escalate if open for more than 24 hours.
+
+Metrics Tracked:
+- SLA Compliance %
+- Number of SLA breaches
+- Aging incidents

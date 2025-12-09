@@ -1,0 +1,51 @@
+IncidentID,Category,Subcategory,AssignmentGroup,Priority,OpenedDate,ResolvedDate,ResolutionTimeHours
+INC001,Network,WiFi,Network L2,P3,2025-01-01 09:00,2025-01-01 13:00,4
+INC002,Application,Login,App Support L2,P1,2025-01-02 02:00,2025-01-02 05:00,3
+INC003,Hardware,Laptop,Desktop Support L1,P4,2025-01-02 10:00,2025-01-03 09:00,23
+INC004,Server,CPU Alert,Server Ops L2,P2,2025-01-03 03:00,2025-01-03 06:00,3
+INC005,Network,VPN,Network L2,P2,2025-01-03 07:00,2025-01-03 15:00,8
+INC006,Application,Payment Error,App Support L3,P1,2025-01-04 08:00,2025-01-04 11:00,3
+INC007,Database,Performance,DBA Team,P2,2025-01-04 09:00,2025-01-04 14:00,5
+INC008,Email,Mailbox Issue,Messaging L2,P3,2025-01-05 10:00,2025-01-05 12:00,2
+INC009,Server,Disk Full,Server Ops L2,P2,2025-01-05 23:00,2025-01-06 02:00,3
+INC010,Application,Timeout,App Support L2,P3,2025-01-06 14:00,2025-01-06 18:00,4
+INC011,Server,Memory Alert,Server Ops L2,P2,2025-01-07 08:00,2025-01-07 11:00,3
+INC012,Network,Switch Failure,Network L3,P1,2025-01-07 09:20,2025-01-07 12:20,3
+INC013,Application,Login Issue,App Support L2,P3,2025-01-07 10:00,2025-01-07 13:00,3
+INC014,Hardware,Printer Issue,Desktop Support L1,P4,2025-01-07 11:00,2025-01-08 09:00,22
+INC015,Email,Spam Issue,Messaging L2,P3,2025-01-08 08:00,2025-01-08 10:00,2
+INC016,Database,Slow Query,DBA Team,P2,2025-01-08 09:30,2025-01-08 14:00,4.5
+INC017,Network,VLAN Issue,Network L2,P2,2025-01-09 10:00,2025-01-09 13:30,3.5
+INC018,Application,Payment Failure,App Support L3,P1,2025-01-09 13:00,2025-01-09 15:00,2
+INC019,Server,High CPU,Server Ops L2,P3,2025-01-10 06:00,2025-01-10 09:00,3
+INC020,Application,Timeout,App Support L2,P3,2025-01-10 14:00,2025-01-10 18:00,4
+INC021,Network,DNS Error,Network L1,P2,2025-01-11 07:00,2025-01-11 09:30,2.5
+INC022,Hardware,Keyboard Issue,Desktop Support L1,P4,2025-01-11 11:00,2025-01-11 16:00,5
+INC023,Application,UI Crash,App Support L3,P2,2025-01-12 09:00,2025-01-12 12:00,3
+INC024,Server,OS Corruption,Server Ops L3,P1,2025-01-12 03:00,2025-01-12 07:00,4
+INC025,Network,Router Failure,Network L3,P1,2025-01-13 01:00,2025-01-13 04:00,3
+INC026,Email,Mail Delay,Messaging L2,P3,2025-01-13 10:00,2025-01-13 12:00,2
+INC027,Database,Backup Failure,DBA Team,P2,2025-01-13 23:00,2025-01-14 03:00,4
+INC028,Application,API Error,App Support L2,P2,2025-01-14 08:00,2025-01-14 10:00,2
+INC029,Hardware,Battery Issue,Desktop Support L1,P4,2025-01-14 14:00,2025-01-15 12:00,22
+INC030,Server,Service Crash,Server Ops L2,P1,2025-01-15 02:00,2025-01-15 06:00,4
+INC031,Network,Proxy Error,Network L2,P2,2025-01-15 09:00,2025-01-15 13:00,4
+INC032,Application,Form Error,App Support L2,P3,2025-01-16 08:00,2025-01-16 11:30,3.5
+INC033,Hardware,Monitor Issue,Desktop Support L1,P4,2025-01-16 09:00,2025-01-16 14:00,5
+INC034,Database,Deadlock,DBA Team,P1,2025-01-17 02:00,2025-01-17 04:00,2
+INC035,Server,Reboot Needed,Server Ops L1,P3,2025-01-17 06:00,2025-01-17 08:00,2
+INC036,Application,Slow Response,App Support L2,P3,2025-01-17 11:00,2025-01-17 14:00,3
+INC037,Network,Firewall Rule Issue,Network L3,P1,2025-01-18 04:00,2025-01-18 07:00,3
+INC038,Application,API Timeout,App Support L2,P2,2025-01-18 10:00,2025-01-18 13:00,3
+INC039,Email,Authentication Error,Messaging L2,P2,2025-01-19 07:00,2025-01-19 11:00,4
+INC040,Server,High Memory,Server Ops L2,P3,2025-01-19 16:00,2025-01-19 20:00,4
+INC041,Hardware,HDD Failure,Desktop Support L2,P2,2025-01-20 09:00,2025-01-20 13:00,4
+INC042,Network,Link Flap,Network L3,P1,2025-01-20 01:00,2025-01-20 03:30,2.5
+INC043,Application,Data Sync Issue,App Support L3,P2,2025-01-20 11:00,2025-01-20 14:00,3
+INC044,Database,Connection Loss,DBA Team,P1,2025-01-21 05:00,2025-01-21 08:00,3
+INC045,Server,Patch Failure,Server Ops L2,P2,2025-01-21 23:00,2025-01-22 04:00,5
+INC046,Application,Deployment Bug,App Support L3,P1,2025-01-22 02:00,2025-01-22 05:00,3
+INC047,Hardware,SSD Failure,Desktop Support L2,P1,2025-01-22 04:00,2025-01-22 09:00,5
+INC048,Network,Routing Issue,Network L3,P2,2025-01-23 06:00,2025-01-23 10:00,4
+INC049,Email,SMTP Error,Messaging L2,P2,2025-01-23 11:00,2025-01-23 14:00,3
+INC050,Server,Kernel Panic,Server Ops L3,P1,2025-01-24 03:00,2025-01-24 07:00,4

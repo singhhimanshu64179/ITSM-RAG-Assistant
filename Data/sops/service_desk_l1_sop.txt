@@ -1,0 +1,19 @@
+Title: Service Desk L1 Responsibilities
+
+Core Duties:
+- First point of contact for users.
+- Logging all incidents with proper category and CI.
+- Initial troubleshooting.
+- Applying known solutions from knowledge base.
+
+Escalation Rules:
+- Escalate to L2 if incident cannot be resolved within 30 minutes.
+- Immediately escalate P1 incidents.
+
+Communication:
+- Provide updates every 30 minutes for P1, every 60 minutes for P2.
+
+KPIs:
+- First Call Resolution (FCR)
+- Ticket logging accuracy
+- Average Handling Time

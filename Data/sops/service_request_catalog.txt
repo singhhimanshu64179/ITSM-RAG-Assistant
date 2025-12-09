@@ -1,0 +1,24 @@
+Title: Service Request Catalog Items
+
+1. Password Reset
+   - Fulfilled by: Service Desk L1
+   - SLA: 15 minutes
+   - Requirements: User ID verification
+
+2. New Laptop Request
+   - Fulfilled by: Desktop Support L2
+   - SLA: 5 business days
+   - Requirements: Manager approval
+
+3. Application Access Request
+   - Fulfilled by: Access Management
+   - SLA: 24 hours
+   - Requirements: Access form, manager approval
+
+4. Email Distribution List Creation
+   - Fulfilled by: Messaging Team
+   - SLA: 12 hours
+
+5. VPN Access Request
+   - Fulfilled by: Network Team
+   - SLA: 24 hours

@@ -1,0 +1,22 @@
+Title: ITSM KPIs
+
+Incident Management KPIs:
+- MTTR (Mean Time to Resolve)
+- FCR (First Call Resolution)
+- SLA compliance
+- Reopen rate
+
+Problem Management KPIs:
+- Time to RCA
+- Reduction in repeat incidents
+- % of problems with documented workaround
+
+Change Management KPIs:
+- Change success rate
+- Failed changes
+- Emergency change percentage
+
+Service Desk KPIs:
+- Ticket logging accuracy
+- Customer satisfaction score (CSAT)
+- Average response time

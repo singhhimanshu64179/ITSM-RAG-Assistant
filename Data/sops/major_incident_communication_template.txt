@@ -1,0 +1,53 @@
+Title: Major Incident Communication Template
+
+Initial Notification:
+Subject: Major Incident Declared - <Service Name>
+
+Dear Stakeholders,
+A Major Incident has been declared for <Service Name>. Our teams are actively working on restoration.
+
+Impact:
+- <Describe current impact>
+
+Start Time:
+- <Timestamp>
+
+Next Update:
+- Within 30 minutes.
+
+Thank you for your patience,
+Major Incident Manager
+
+-----------------------------------------------------
+
+Update Notification:
+Subject: MI Update - <Service Name>
+
+Dear Stakeholders,
+Here is the latest update on the ongoing Major Incident.
+
+Current Status:
+- <Troubleshooting status>
+
+Workaround:
+- <If available>
+
+Next Update:
+- <Timestamp>
+
+-----------------------------------------------------
+
+Resolution Notification:
+Subject: MI Resolved - <Service Name>
+
+Dear Stakeholders,
+The Major Incident affecting <Service Name> has been resolved.
+
+Root Cause (Preliminary):
+- <Short description>
+
+PIR:
+- Scheduled within 5 business days.
+
+Regards,
+Major Incident Manager

@@ -1,0 +1,49 @@
+Title: Incident Management Process (ITIL v4 Aligned)
+
+Purpose:
+The purpose of Incident Management is to restore normal service operation as quickly as possible and minimize the adverse impact on business operations.
+
+Scope:
+This process applies to all incidents detected through user calls, emails, monitoring alerts, or automated systems.
+
+Definitions:
+Incident: An unplanned interruption or reduction in service quality.
+Priority: Determined based on Impact × Urgency.
+Workaround: A temporary fix to reduce incident impact.
+
+Process Steps:
+1. Identification:
+   - Incidents are reported via Service Desk, monitoring tools, or API triggers.
+   - L1 logs incident with CI, impact, urgency, and detailed notes.
+
+2. Categorization:
+   - Select category → sub-category → CI.
+   - Choose impact and urgency according to process matrix.
+
+3. Prioritization:
+   - P1: Critical business impact.
+   - P2: High business impact.
+   - P3: Medium.
+   - P4: Low.
+
+4. Initial Diagnosis:
+   - L1 performs troubleshooting using knowledge base.
+   - Apply known workarounds if available.
+
+5. Escalation:
+   - Functional escalation to L2/L3 if not resolved in 30 minutes.
+   - Hierarchical escalation if SLA at risk.
+
+6. Investigation & Resolution:
+   - Resolver groups perform root cause analysis.
+   - Apply permanent fix or workaround.
+
+7. Closure:
+   - Validate with user.
+   - Add resolution notes and lessons learned.
+
+KPIs:
+- First Call Resolution (FCR%)
+- Mean Time to Resolve (MTTR)
+- Number of repeat incidents
+- SLA compliance rate

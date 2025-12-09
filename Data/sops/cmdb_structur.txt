@@ -1,0 +1,36 @@
+Title: CMDB Structure and Configuration Item (CI) Details
+
+Purpose:
+The Configuration Management Database (CMDB) stores details about all Configuration Items (CIs) and their relationships.
+
+Core CI Types:
+1. Application Services
+2. Servers (Windows/Linux)
+3. Network Devices (Routers, Switches, Firewalls)
+4. Databases
+5. Storage
+6. Cloud Resources (VMs, Load Balancers)
+7. End-user Devices (Laptops, Desktops)
+
+Mandatory Fields:
+- CI Name
+- CI Type
+- Owner
+- Support Group
+- Environment (Prod/Non-Prod)
+- Relationship (Depends-On, Hosted-On)
+- Version
+- Status (Active/Retired)
+
+Sample CI Entries:
+CI Name: Payment-App
+CI Type: Application
+Owner: Digital Banking Team
+Support Group: App Support L2
+Dependency: DB-MySQL-Prod
+
+CI Name: VM-Web-01
+CI Type: Virtual Server
+OS: Windows 2022
+Hosted-On: Hypervisor-Cluster-03
+Support Group: Server Ops L2

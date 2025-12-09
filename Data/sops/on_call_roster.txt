@@ -1,0 +1,25 @@
+Title: On-Call Roster for IT Teams (Jan 2025)
+
+Network Team:
+- Week 1: John Doe
+- Week 2: Priya R
+- Week 3: Ahmed K
+- Week 4: Carlos M
+
+Server Team:
+- Week 1: Divya S
+- Week 2: Michael A
+- Week 3: Rohit P
+- Week 4: Tania L
+
+Database Team:
+- Week 1: Akash N
+- Week 2: Nina D
+- Week 3: Sonia F
+- Week 4: Jacob W
+
+Application Team:
+- Week 1: Karan M
+- Week 2: James T
+- Week 3: Sara P
+- Week 4: Vikram B

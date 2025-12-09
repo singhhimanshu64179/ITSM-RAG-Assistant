@@ -1,0 +1,31 @@
+Title: Change Management Process (ITIL v4)
+
+Purpose:
+Ensure standardized methods for handling changes to minimize service risks.
+
+Types of Changes:
+- Standard: Pre-approved, low-risk.
+- Normal: Requires approval (low, medium, or high risk).
+- Emergency: Requires immediate implementation.
+
+Process Steps:
+1. Change Request Submission:
+   - Includes justification, risk assessment, impacted CI, rollback plan.
+
+2. Risk & Impact Analysis:
+   - Change Manager + SMEs review technical impact.
+
+3. Approval:
+   - CAB approval required for medium/high-risk changes.
+
+4. Implementation:
+   - Execute change within scheduled window.
+
+5. Review:
+   - Validate success.
+   - Update CMDB.
+
+KPIs:
+- Change success rate
+- Number of emergency changes
+- Failed change percentage

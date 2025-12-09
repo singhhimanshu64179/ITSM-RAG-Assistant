@@ -1,0 +1,28 @@
+Title: Knowledge Article – VPN Connection Failure
+
+Article ID: KA-00123
+Category: Network → VPN
+Audience: Service Desk L1 & End Users
+
+Issue:
+Users unable to connect to VPN. Error: "Authentication failed."
+
+Cause:
+Incorrect saved credentials or expired token.
+
+Resolution Steps:
+1. Open VPN Client > Settings.
+2. Clear saved credentials.
+3. Enter corporate ID manually.
+4. Reset token from MFA app if expired.
+5. Retry connection.
+
+When to Escalate:
+- Issue persists after 2 attempts.
+- Affected user is part of critical teams.
+
+Related Incidents:
+INC1245, INC0912
+
+Review Cycle:
+Quarterly

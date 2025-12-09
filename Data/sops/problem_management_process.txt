@@ -1,0 +1,34 @@
+Title: Problem Management Process (ITIL v4)
+
+Purpose:
+To prevent incidents from recurring and reduce impact of unavoidable incidents.
+
+Process:
+1. Problem Detection:
+   - Identified via repeated incidents, trend analysis, or MIM.
+
+2. Logging:
+   - Problem ticket created with CI, description, business impact.
+
+3. Categorization & Prioritization:
+   - Based on impact, frequency, and severity.
+
+4. Investigation & Diagnosis:
+   - Perform RCA using methods such as:
+     - 5 Whys
+     - Fishbone Diagram
+     - Kepner-Tregoe
+
+5. Workaround:
+   - Document temporary workaround in knowledge base.
+
+6. Resolution:
+   - Implement permanent fix via Change Management.
+
+7. Closure:
+   - Validate fix and update documentation.
+
+KPIs:
+- Reduction in repeat incidents
+- Time to complete RCA
+- Percentage of problems with documented workaround

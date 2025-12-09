@@ -1,0 +1,7 @@
+venv/
+vectoredb/
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.pdf

@@ -1,0 +1,16 @@
+Title: Service Desk L2 Responsibilities
+
+Responsibilities:
+- Advanced troubleshooting.
+- Root cause identification.
+- Apply patches and configuration changes (as per Change Management).
+- Support L1 with knowledge articles.
+
+Escalation:
+- Escalate to L3 if technical expertise required.
+- Notify MIM for potential major incidents.
+
+KPIs:
+- Mean Time to Resolve (MTTR)
+- Backlog reduction
+- Knowledge base contribution rate

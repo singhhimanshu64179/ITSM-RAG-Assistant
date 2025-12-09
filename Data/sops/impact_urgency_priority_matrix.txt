@@ -1,0 +1,25 @@
+Title: Impact-Urgency Priority Matrix
+
+Impact Levels:
+- High: Organization-wide impact or financial loss.
+- Medium: Department-level impact.
+- Low: Single-user impact.
+
+Urgency Levels:
+- High: Needs immediate attention.
+- Medium: Can wait but impacts business.
+- Low: No critical business impact.
+
+Priority Determination:
+
+               Urgency
+Impact         H      M      L
+---------------------------------
+High           P1     P2     P3
+Medium         P2     P3     P4
+Low            P3     P4     P4
+
+Examples:
+- Email outage for all users → High Impact + High Urgency = P1
+- Single laptop slowness → Low Impact + Low Urgency = P4
+- Business application down for one department → Medium Impact + High Urgency = P2

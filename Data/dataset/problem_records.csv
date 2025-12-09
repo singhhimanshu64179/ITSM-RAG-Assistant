@@ -1,0 +1,6 @@
+ProblemID,RelatedIncidents,RootCause,Workaround,AssignmentGroup,CreatedDate,Status
+PRB001,"INC004,INC019",High CPU due to memory leak,Reboot server,Server Ops L2,2025-01-05,Open
+PRB002,"INC006,INC018,INC046",Payment service bug in API layer,Manual retry via script,App Support L3,2025-01-10,In Progress
+PRB003,"INC027",Backup process lock conflict,Run backup manually,DBA Team,2025-01-15,Closed
+PRB004,"INC033,INC041",Hardware malfunction in Dell batch series,Replace components,Desktop Support L2,2025-01-18,Open
+PRB005,"INC012,INC025,INC042",Faulty network switch firmware,Fallback routing temporarily,Network L3,2025-01-20,In Progress

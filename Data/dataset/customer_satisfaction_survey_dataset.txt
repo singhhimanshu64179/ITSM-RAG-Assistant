@@ -1,0 +1,9 @@
+SurveyID,IncidentID,Rating,Comments
+S001,INC001,5,Very quick resolution.
+S002,INC003,3,Resolved but took long time.
+S003,INC005,4,Good support from L2.
+S004,INC007,2,Issue occurred again.
+S005,INC010,5,Excellent communication.
+S006,INC014,3,Support was helpful.
+S007,INC016,4,Problem fixed smoothly.
+S008,INC018,5,Immediate response for P1.

@@ -1,0 +1,39 @@
+Title: Root Cause Analysis (RCA) Template
+
+Incident Number: <INC ID>
+Problem Record: <PRB ID>
+
+Summary of Issue:
+<Short description of what happened>
+
+Timeline of Events:
+- 09:00 Incident detected
+- 09:15 L1 validation
+- 09:30 Escalated to L2
+- 10:00 Fix applied
+- 11:00 Service restored
+
+Root Cause:
+<What caused the failure — technical + process>
+
+Contributing Factors:
+- <Any secondary causes>
+
+Workaround:
+<Temporary workaround used>
+
+Permanent Fix:
+<Details of final resolution>
+
+Corrective Actions:
+- Action 1
+- Action 2
+- Action 3
+
+Preventive Measures:
+- Monitoring improvement
+- Patch updates
+- Documentation updates
+
+Owner:
+Problem Manager

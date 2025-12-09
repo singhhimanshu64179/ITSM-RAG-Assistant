@@ -1,0 +1,24 @@
+Title: User Access Management SOP
+
+Purpose:
+Ensure that user access to systems is provisioned, modified, and removed securely.
+
+Process Steps:
+1. User submits access request via portal.
+2. Manager approval required for all access requests.
+3. Access Management validates:
+   - Role eligibility
+   - Separation of duties
+4. Access is provisioned via Active Directory / IAM.
+5. Confirmation sent to the user.
+6. Deprovision access during exit process.
+
+Access Types:
+- Application Access
+- VPN Access
+- Corporate Email
+- Admin Privileges (requires additional checks)
+
+KPIs:
+- Access provisioning SLA: 24 hours
+- Access deprovision SLA: Within same day

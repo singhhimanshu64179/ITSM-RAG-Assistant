@@ -1,0 +1,6 @@
+AlertID,AlertType,CI,Severity,GeneratedTime,AcknowledgedTime,Status
+AL001,CPU Utilization,VM-Web-01,High,2025-01-02 10:00,2025-01-02 10:05,Acknowledged
+AL002,Disk Usage,DB-MySQL-Prod,Critical,2025-01-03 02:00,2025-01-03 02:07,Escalated
+AL003,Service Down,Payment-App,Critical,2025-01-04 08:00,2025-01-04 08:03,Escalated
+AL004,Packet Loss,Router-Core-01,Medium,2025-01-05 11:00,2025-01-05 11:20,Resolved
+AL005,High Memory,VM-App-02,High,2025-01-06 13:00,2025-01-06 13:10,Investigating

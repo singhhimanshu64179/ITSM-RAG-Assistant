@@ -1,0 +1,34 @@
+Title: Security Incident Management SOP
+
+Definition:
+A security incident is any unauthorized access, data breach, malware infection, or suspicious activity affecting business systems.
+
+Process Steps:
+1. Detection:
+   - SIEM alerts, antivirus, user reporting.
+
+2. Validation:
+   - Security Analyst triages severity.
+
+3. Containment:
+   - Isolate affected systems.
+   - Disable compromised accounts.
+
+4. Eradication:
+   - Remove malware, patch vulnerabilities.
+
+5. Recovery:
+   - Restore systems from clean backups.
+
+6. Post-Incident:
+   - Conduct forensic analysis.
+   - Update SOC playbooks.
+
+Severity Levels:
+- SEV1: Data breach or widespread compromise.
+- SEV2: Targeted attack or malware spread.
+- SEV3: Low-risk intrusion attempt.
+
+KPIs:
+- Detection to containment time
+- Number of repeated security incidents
