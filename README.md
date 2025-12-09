@@ -94,14 +94,11 @@ python ingest.py
 streamlit run app.py
 
 
-Your assistant is now live at:
-
+Assistant is now live at:
 👉 http://localhost:8501
 
 🧪 Example Questions
-
 Try asking:
-
 “What is the Incident Management lifecycle?”
 “Explain Major Incident communication workflow.”
 “What is the Impact-Urgency Priority Matrix?”
@@ -109,7 +106,7 @@ Try asking:
 “What is the difference between Standard and Emergency Change?”
 “Give me RCA steps for recurring incidents.”
 
-📸 Screenshots (Add after uploading)
+📸 Screenshots
 ![ITSM RAG UI](ui.png)
 ![Dark Mode](darkmode.png)
 ![Sources Example](Source.png)
