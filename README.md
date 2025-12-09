@@ -110,9 +110,9 @@ Try asking:
 “Give me RCA steps for recurring incidents.”
 
 📸 Screenshots (Add after uploading)
-![ITSM RAG UI](screenshots/ui.png)
-![Dark Mode](screenshots/darkmode.png)
-![Sources Example](screenshots/source.png)
+![ITSM RAG UI](ui.png)
+![Dark Mode](darkmode.png)
+![Sources Example](Source.png)
 
 🧩 Future Enhancements
 🔥 Support for multimodal ITSM data (PDFs, DOCX)
